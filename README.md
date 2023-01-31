@@ -1,5 +1,3 @@
- Dépôt utilisé pour le projet SGBD.
-
 # Authors
 
 	- AHBAIZ Mouhcine <mahbaiz@enseirb-matmeca.fr>
